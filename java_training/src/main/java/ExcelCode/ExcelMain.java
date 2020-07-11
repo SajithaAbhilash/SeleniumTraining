@@ -7,6 +7,7 @@ public class ExcelMain
 
 	public static void main(String[] args) throws IOException 
 	{
+		System.out.println("My first commit to GITHUB is ready");
 		ExcelCode ob=new ExcelCode();
 		for(int i=0;i<ob.rowSize();i++)
 		{
